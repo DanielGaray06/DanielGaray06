@@ -17,14 +17,17 @@ Junior Fullstack Engineer with proven experience in building and maintaining sca
 - 🛠️ Tech Stack
 
 **Tools:**
+
   ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
   ![SQL](https://img.shields.io/badge/SQL-lightblue)
   
 **Backend**  
+
   ![Pyhton](https://img.shields.io/badge/Python-yellow)
   ![Django]( https://img.shields.io/badge/Django-green%20)
   
 **Frontend**  
+
   ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
   ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 
