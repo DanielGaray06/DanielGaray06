@@ -24,7 +24,7 @@ Junior Fullstack Engineer with proven experience in building and maintaining sca
 **Backend**  
 
   ![Pyhton](https://img.shields.io/badge/Python-yellow)
-  ![Django]( https://img.shields.io/badge/Django-green%20)
+  ![Flask](https://img.shields.io/badge/Flask-blue)
   
 **Frontend**  
 
