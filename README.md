@@ -1,34 +1,32 @@
 <div align="center">
-<h1 align="center"> Hi there, I'm Daniel Garay 👋</h1>
+<h1 align="center"> Junior Backend Developer </h1>
 </div>
-` 😄 Daniel Garay Ortiz` |  `🌱 Medellín, Colombia` | <a href='https://www.linkedin.com/in/daniel-garay-264956342/' target="_blank"><img src="https://avatars3.githubusercontent.com/u/357098" width="15" height="15" alt="linkedin logo"/></a> `linkedin.com/in/daniel-garay/`
+- 😄 Daniel Garay Ortiz | 🌱 Medellín, Colombia | <a href='https://www.linkedin.com/in/daniel-garay-264956342/' target="_blank"><img src="https://avatars3.githubusercontent.com/u/357098" width="15" height="15" alt="linkedin logo"/></a> `linkedin.com/in/daniel-garay/`
 
 ## About Me 👋
 
-<!--
-**DanielGaray06/DanielGaray06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Backend Engineer with proven experience in building and maintaining scalable server-side applications, focusing on database management, RESTfull APIs, and backend services to support web and mobile platforms.
 
-Junior mobile engineer with proven experience in the development of innovative products and interactive projects, focusing on applications for Android and iOS devices.
-
-- 🔭 Junior Mobile Developer 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 Junior Backend Developer 
+- 🌱 I’m currently learning JavaScript and React for the Frontend!
+- 💬 Ask me about backend whit Python
 - 📫 How to reach me: danielfelipegaray2003@gmail.com
-- 😄 Daniel Garay Ortiz | 🌱 Medellín, Colombia 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm very interesed in learning new things.
 
 - 🛠️ Tech Stack
   
   **Backend***
   ![Pyhton] (https://img.shields.io/badge/Python-yellow)
+  ![Django] ( https://img.shields.io/badge/Django-green%20)
   
+   **Frontend**
+  ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+
   **Tools:**
   ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+  ![SQL] (https://img.shields.io/badge/SQL-lightblue)
 
-![Frontend]:
-React TypeScript
+ 
 
 
 
