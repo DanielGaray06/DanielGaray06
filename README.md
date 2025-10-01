@@ -8,7 +8,7 @@
 Junior Fullstack Engineer with proven experience in building and maintaining scalable server-side applications, focusing on database management, RESTful APIs, and backend services to support web and mobile platforms.
 
 
-- 🔭 Junior Backend Developer 
+- 🔭 Junior Fullstack Developer 
 - 🌱 I’m currently learning JavaScript and React for the Frontend!
 - 💬 Ask me about backend whit Python
 - 📫 How to reach me: danielfelipegaray2003@gmail.com
