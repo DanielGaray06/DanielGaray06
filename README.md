@@ -1,6 +1,6 @@
  # 🔭 Junior Fullstack Developer 
 
-😄 Daniel Garay Ortiz | 🌱 Medellín, Colombia | <a href='https://www.linkedin.com/in/daniel-garay-264956342/' target="_blank"><img src="https://avatars3.githubusercontent.com/u/357098" width="15" height="15" alt="linkedin logo"/></a>linkedin.com/in/daniel-garay/
+😄 Daniel Garay Ortiz | 🌱 Medellín, Colombia | <a href='https://www.linkedin.com/in/daniel-garay-264956342/' target="_blank"><img src="https://avatars3.githubusercontent.com/u/357098" width="15" height="15" alt="linkedin logo"/></a> linkedin.com/in/daniel-garay/
 
 
 ## About Me 👋
